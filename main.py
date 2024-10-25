@@ -20,10 +20,10 @@ print_statistics(stats)
 
 
 # Визуализация с помощью Matplotlib
-# matplotlib_visualization.plot_graph(data)
+matplotlib_visualization.plot_graph(data)
 
 # Визуализация с помощью Seaborn
-# seaborn_visualization.plot_graph(data)
+seaborn_visualization.plot_graph(data)
 
 # Визуализация с помощью Plotly
 plotly_visualization.plot_graph(data)
