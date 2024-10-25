@@ -27,16 +27,16 @@
 ## Скриншоты
 
 ### Пример графика Matplotlib:
-![img.png](img.png)
+![img.png](scrin_result/img.png)
 
 ### Пример графика Seaborn:
-![img_1.png](img_1.png)
+![img_1.png](scrin_result/img_1.png)
 
 ### Пример графика Plotly:
-![img_2.png](img_2.png)
+![img_2.png](scrin_result/img_2.png)
 
 ### Пример вывода статистики:
-![img_3.png](img_3.png)
+![img_3.png](scrin_result/img_3.png)
 
 ## Структура проекта
 
