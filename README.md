@@ -43,8 +43,8 @@
     ├── data/
     ├── scrin_result/
     ├── visualizations/
-    ├── custom_statistics.py
-    ├── main.py
+    ├── custom_statistics.ipynb
+    ├── main.ipynb
     ├── README.md
     ├── requirements.txt
     └── temp-plot.html
