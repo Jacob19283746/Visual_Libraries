@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 
 """Функция построения графика"""
 def plot_graph_seaborn(data):
+    plt.close()
     """Установка стилей"""
     sns.set_style('darkgrid')
 
