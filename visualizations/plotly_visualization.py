@@ -1,13 +1,5 @@
-"""import plotly.graph_objects as go
-from plotly.offline import plot
-# Пример простого графика
-df = px.data.gapminder().query("continent == 'Oceania'")
-fig = px.line(df, x='year', y='gdpPercap', color='country')
-plot(fig)"""
-
 import plotly.graph_objects as go
 # from plotly.offline import plot
-
 
 """Функция построения графика"""
 def plot_graph_plotly(data):

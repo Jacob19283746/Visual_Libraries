@@ -1,12 +1,3 @@
-"""import seaborn as sns
-import matplotlib.pyplot as plt
-# Пример точечной диаграммы
-data = sns.load_dataset("tips")
-sns.scatterplot(x='total_bill', y='tip', data=data)
-plt.title('График чаевых')
-plt.show()"""
-
-
 import seaborn as sns
 import matplotlib.pyplot as plt
 
